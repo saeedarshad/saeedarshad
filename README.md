@@ -1,4 +1,5 @@
-# 💫 About Me:
+#  About Me:
+I'm Full stack developer working remotely since 2019. <br>
 I'm currently working on telehealth services management product.<br>I'm looking to collaborate on Angular, Python and Django projects.<br>I'm currently learning React and React-native.
 
 
